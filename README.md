@@ -1,4 +1,4 @@
-# medical-insurance-cost-prediction
+# Medical-insurance-cost-prediction
 Medical Insurance Cost Prediction
 A machine learning project that predicts an individual's medical insurance charges from personal details (age, sex, BMI, children, smoking status and region) using Linear Regression in Python.
 
