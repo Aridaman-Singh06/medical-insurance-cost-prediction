@@ -40,5 +40,5 @@ bash
 pip install pandas numpy matplotlib seaborn scipy scikit-learn jupyter
 # keep insurance.csv in the same folder as the notebook
 jupyter notebook ML_project1_.ipynb
-Author
+# Author
 Aridaman Singh
